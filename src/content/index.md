@@ -7,7 +7,16 @@ seo:
   socialImage: /assets/images/metalsmith-starter-social.png
   canonicalOverwrite: ""
 ---
-# Metalsmith Netlify CMS Starter
+# Metalsmith Netlify CMS sdfsdf
+
+<div class="banner" style="display:flex;">
+  <div class="banner-left">
+    Banner goes here
+  </div>
+  <div class="banner-right">
+    Banner goes here
+  </div>
+</div>
 
 ![](/assets/images/anvil-with-hammer.jpg)
 
